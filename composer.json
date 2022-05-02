@@ -1,0 +1,19 @@
+{
+    "name": "ankit/contact",
+    "description": "This will send email to admin & save contact to DB.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ankit"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "ankit\\contact\\": "src/"
+        }
+    }
+}
