@@ -4,9 +4,9 @@ namespace ankit\contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
-use ankit\contact\Models\Contact;
+use ankit123\contact\Models\Contact;
 
-use ankit\contact\Mail\ContactMailable;
+use ankit123\contact\Mail\ContactMailable;
 
 use Illuminate\Support\Facades\Mail;
 

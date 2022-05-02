@@ -1,6 +1,6 @@
 <?php
 
-namespace ankit\contact\Models;
+namespace ankit123\contact\Models;
 
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;

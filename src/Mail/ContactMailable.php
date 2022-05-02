@@ -1,6 +1,6 @@
 <?php
 
-namespace ankit\contact\Mail;
+namespace ankit123\contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

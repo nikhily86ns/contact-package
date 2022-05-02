@@ -1,6 +1,6 @@
 <?php
 
-namespace ankit\contact;
+namespace ankit123\contact;
 
 use Illuminate\Support\ServiceProvider;
 
