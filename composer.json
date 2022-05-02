@@ -1,5 +1,5 @@
 {
-    "name": "ankit123/contact",
+    "name": "ankit/contact",
     "description": "This will send email to admin & save contact to DB.",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
 
     "autoload": {
         "psr-4": {
-            "ankit123\\contact\\": "src/"
+            "ankit\\contact\\": "src/"
         }
     }
 }
